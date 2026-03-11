@@ -1,0 +1,8 @@
+.ssh/
+.cache/
+.bash_history
+.bash_logout
+.bashrc
+.forward
+.profile
+.viminfo
